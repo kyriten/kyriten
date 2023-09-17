@@ -14,7 +14,7 @@
 
 <br/>
 
-<h2 align="center"> Now I am learning at </h2>
+### Now I am learning at
 
 | Computer Science - Universitas Pakuan | Cloud Computing - Bangkit 2023 H2 |
 |----------|----------|

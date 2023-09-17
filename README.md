@@ -13,10 +13,11 @@
   </a>
 </div>
 
+<br/>
 
-<p align="center" style="margin-top: 20px;">
+<div align="center">
 🌱 I’m currently learning Cloud Computing learning path at Bangkit 2023 H2
-</p>
+</div>
 
 ### ✍️ Random Dev Quote
 <p align="center">

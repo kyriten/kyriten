@@ -14,7 +14,6 @@
 
 <br/>
 
-### Now I am learning at
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; padding: 10px; text-align: center;">
     <img src="https://github.com/kyriten/kyriten/blob/main/logo-unpak.ico" alt="Universitas Pakuan" style="width: 12%;">

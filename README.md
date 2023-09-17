@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-##Now I am learning at
+<h3>Now I am learning at</h3>
 <div style="display: flex;">
   <figure style="flex:1; width: 50%;">
     <img src=".jpg" alt="Universitas Pakuan" style="width: 100%;">

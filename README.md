@@ -14,7 +14,7 @@
 
 <br/>
 
-<div style="align="center">
+<div align="center">
   <table style="text-align: center;">
     <tr>
     <td>

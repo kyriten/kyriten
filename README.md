@@ -12,6 +12,10 @@
   </a>
 </div>
 
+| ![Image 1](image1-url) Caption for Image 1 | ![Image 2](image2-url) Caption for Image 2 |
+|:-----------------------------------------:|:-----------------------------------------:|
+
+
 <div align="center">
   <br/>
   <table style="text-align: center;">

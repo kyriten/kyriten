@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abimanyu</h1>
-<div align="center">
+<div style="align-items:center" align="center">
   Let's connect : 
   <a href="https://discord.gg/kyriten#0865">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">

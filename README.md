@@ -1,7 +1,8 @@
 
 <div id="header" align="center">
   <iframe src="https://giphy.com/embed/3ov9jNziFTMfzSumAw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-div>
+</div>
+
 ### Hi there 👋
 
 - 👋 Hi, I’m Abimanyu, called Abi (pronounced in Bahasa, please)

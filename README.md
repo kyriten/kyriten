@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-I am an undergraduate in <a href="https://ilkom.unpak.ac.id/"> Computer Science </a> at <a href="https://www.unpak.ac.id/"> Universitas Pakuan </a> & as a Cloud Computing Cohort at <a href="https://www.linkedin.com/company/bangkit-academy/mycompany/"> <img src="https://github.com/kyriten/kyriten/blob/main/bangkit.ico" alt="Your Icon" width="64" height="64"> Bangkit 2023 H2 </a> <br/>
+I am an undergraduate in <a href="https://ilkom.unpak.ac.id/"> Computer Science </a> at <a href="https://www.unpak.ac.id/"> Universitas Pakuan </a> & as a Cloud Computing Cohort at <a href="https://www.linkedin.com/company/bangkit-academy/mycompany/"> <img src="https://github.com/kyriten/kyriten/blob/main/bangkit.ico" alt="Your Icon" width="12" height="12"> Bangkit 2023 H2 </a> <br/>
   Currently, developing helpdesk app web-based as a final project for my internship report at Setiajaya Toyota on August-September 2023 <br/>
   ⚙️Tech Stack: Laravel with TailwindCSS, Laravel Breeze
 </div>

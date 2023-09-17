@@ -14,7 +14,7 @@
 </div>
 
 
-<div align="center" style="padding: 20px;">
+<div align="center" style="margin-top: 20px;">
 🌱 I’m currently learning Cloud Computing learning path at Bangkit 2023 H2
 </div>
 

@@ -16,15 +16,8 @@
 <br/>
 
 <div align="center">
-🌱 I’m currently learning Cloud Computing learning path at Bangkit 2023 H2
+🌱 I’m currently learning Cloud Computing at Bangkit 2023 H2
 </div>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
-</p>
-
-#### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 200px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kyriten&icon=7&color=6)](https://visitcount.itsvg.in)

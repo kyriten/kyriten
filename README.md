@@ -16,7 +16,7 @@
 
 ### Now I am learning at
 
-| ![Cloud Computing - Bangkit 2023 H2]([image-url](https://github.com/kyriten/kyriten/blob/main/bangkit.ico)) | Cloud Computing - Bangkit 2023 H2 |
+| ![Cloud Computing - Bangkit 2023 H2]([https://github.com/kyriten/kyriten/blob/main/bangkit.ico) | Cloud Computing - Bangkit 2023 H2 |
 |:-------------------:|:--------------------------------:|
 
 

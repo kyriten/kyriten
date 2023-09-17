@@ -14,8 +14,8 @@
 
 <div align="center">
   <br/>
-  <table style="text-align: center; border: none">
-    <tr>
+  <table style="text-align: center;">
+    <tr style="border: none">
     <td align="center">
       <img src="https://github.com/kyriten/kyriten/blob/main/logo-unpak.ico" alt="Universitas Pakuan" style="width: 24%;">
       <p>Computer Science - Universitas Pakuan</p>

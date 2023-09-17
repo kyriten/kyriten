@@ -13,10 +13,9 @@
   </a>
 </div>
 
-
-# 💫 About Me:
+<div align="center">
 🌱 I’m currently learning Cloud Computing learning path at Bangkit 2023 H2
-
+</div>
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />

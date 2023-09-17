@@ -14,7 +14,7 @@
 
 <br/>
 
-<h3 align="center">Now I am learning at</h3>
+###Now I am learning at
 | Computer Science - Universitas Pakuan | Cloud Computing - Bangkit 2023 H2 |
 |----------|----------|
 | ![Caption Gambar 1](link-gambar-1) | ![Cloud Computing - Bangkit 2023 H2](https://github.com/kyriten/kyriten/blob/main/bangkit.ico) |

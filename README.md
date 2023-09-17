@@ -21,7 +21,7 @@
     <p>Caption for image 1.</p>
   </div>
   <div style="flex: 1; padding: 10px; text-align: center;">
-    <img src="https://github.com/kyriten/kyriten/blob/main/bangkit.ico" alt="Image 2" style="width: 32%;">
+    <img src="https://github.com/kyriten/kyriten/blob/main/bangkit.ico" alt="Image 2" style="width: 18%;">
     <p>Cloud Computing - Bangkit 2023 H2</p>
   </div>
 </div>

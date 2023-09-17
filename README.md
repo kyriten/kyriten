@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abimanyu</h1>
 <div align="center">
-  Let's connect!
+  Let's connect! <br/>
   <a href="https://discord.gg/kyriten#0865">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
   </a>

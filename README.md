@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-I am an undergraduate in <a href="https://ilkom.unpak.ac.id/"> Computer Science </a> at <a href="[https://ilkom.unpak.ac.id/](https://www.unpak.ac.id/)">Universitas Pakuan</a> and as a Cloud Computing Cohort at Bangkit 2023 H2 <br/>
+I am an undergraduate in <a href="https://ilkom.unpak.ac.id/"> Computer Science </a> at <a href="https://www.unpak.ac.id/"> Universitas Pakuan </a> & as a Cloud Computing Cohort at Bangkit 2023 H2 <br/>
   Currently, developing helpdesk app web-based as a final project for my internship report at Setiajaya Toyota on August-September 2023 <br/>
   ⚙️Tech Stack: Laravel with TailwindCSS, Laravel Breeze
 </div>

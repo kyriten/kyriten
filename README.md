@@ -17,11 +17,11 @@
 ### Now I am learning at
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; padding: 10px; text-align: center;">
-    <img src="image1-url" alt="Image 1" style="width: 100%;">
-    <p>Caption for image 1.</p>
+    <img src="https://github.com/kyriten/kyriten/blob/main/logo-unpak.ico" alt="Universitas Pakuan" style="width: 12%;">
+    <p>Computer Science - Universitas Pakuan</p>
   </div>
   <div style="flex: 1; padding: 10px; text-align: center;">
-    <img src="https://github.com/kyriten/kyriten/blob/main/bangkit.ico" alt="Image 2" style="width: 18%;">
+    <img src="https://github.com/kyriten/kyriten/blob/main/bangkit.ico" alt="Bangkit 2023" style="width: 12%;">
     <p>Cloud Computing - Bangkit 2023 H2</p>
   </div>
 </div>

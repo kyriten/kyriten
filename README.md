@@ -24,7 +24,7 @@
       <p>Cloud Computing - Bangkit 2023 H2</p>
     </td>
     </tr>
-  </div>
+  </table>
 
 <h3 style="font-style=bold">Summary</h3>
 I am an undergraduate in <a href="https://ilkom.unpak.ac.id/"> Computer Science </a> at <a href="https://www.unpak.ac.id/"> Universitas Pakuan </a> & as a Cloud Computing Cohort at <a href="https://www.linkedin.com/company/bangkit-academy/mycompany/"> Bangkit 2023 H2 </a> <br/>

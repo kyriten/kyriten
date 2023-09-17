@@ -12,20 +12,16 @@
   </a>
 </div>
 
-| ![Image 1](https://github.com/kyriten/kyriten/blob/main/logo-unpak.ico) Caption for Image 1 | ![Image 2](https://github.com/kyriten/kyriten/blob/main/bangkit.ico) Caption for Image 2 |
-|:-----------------------------------------:|:-----------------------------------------:|
-
-
 <div align="center">
   <br/>
   <table style="text-align: center;">
     <tr style="border: none">
     <td style="border: none" align="center">
-      <img src="https://github.com/kyriten/kyriten/blob/main/logo-unpak.ico" alt="Universitas Pakuan" style="width: 24%;">
+      <img src="https://github.com/kyriten/kyriten/blob/main/logo-unpak.ico" alt="Universitas Pakuan" style="width: 32%;">
       <p>Computer Science - Universitas Pakuan</p>
     </td>
     <td style="border: none" align="center">
-      <img src="https://github.com/kyriten/kyriten/blob/main/bangkit.ico" alt="Bangkit 2023" style="width: 24%;">
+      <img src="https://github.com/kyriten/kyriten/blob/main/bangkit.ico" alt="Bangkit 2023" style="width: 32%;">
       <p>Cloud Computing - Bangkit 2023 H2</p>
     </td>
     </tr>

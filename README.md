@@ -15,10 +15,16 @@
 <br/>
 
 ### Now I am learning at
-
-| ![Cloud Computing - Bangkit 2023 H2](https://github.com/kyriten/kyriten/blob/main/bangkit.ico) | Cloud Computing - Bangkit 2023 H2 |
-|:-------------------:|:--------------------------------:|
-
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; padding: 10px; text-align: center;">
+    <img src="image1-url" alt="Image 1" style="width: 100%;">
+    <p>Caption for image 1.</p>
+  </div>
+  <div style="flex: 1; padding: 10px; text-align: center;">
+    <img src="https://github.com/kyriten/kyriten/blob/main/bangkit.ico" alt="Image 2" style="width: 100%;">
+    <p>Cloud Computing - Bangkit 2023 H2</p>
+  </div>
+</div>
 
 <div align="center">
 

@@ -14,9 +14,9 @@
 <br/>
 
 <div align="center">
-Now, I am an undergraduate in Computer Science at Universitas Pakuan and as a Cloud Computing Cohort at Bangkit 2023 H2 <br/>
-  Currently, I am developing an app web-based as a final project for my internship report at Setiajaya Toyota on the August-September 2023 <br/>
-  This app uses Laravel 10 with TailwindCSS to help me make user interface.
+I am an undergraduate in Computer Science at Universitas Pakuan and as a Cloud Computing Cohort at Bangkit 2023 H2 <br/>
+  Currently, developing helpdesk app web-based as a final project for my internship report at Setiajaya Toyota on August-September 2023 <br/>
+  ⚙️Tech Stack: Laravel with TailwindCSS, Laravel Breeze
 </div>
 
 ---

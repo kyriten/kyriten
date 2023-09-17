@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <h1>Now, I am learning at</h1>
+  <p>Now, I am learning at</p>
   <br/>
   <table style="text-align: center;">
     <tr style="border: none">

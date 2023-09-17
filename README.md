@@ -19,12 +19,12 @@
 🌱 I’m currently learning Cloud Computing learning path at Bangkit 2023 H2
 </div>
 
-# ✍️ Random Dev Quote
+#### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
 </p>
 
-# 😂 Random Dev Meme
+#### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 200px;"/>
 
 ---

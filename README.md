@@ -14,7 +14,6 @@
 
 <div align="center">
  <h3 style="font-style=bold">Now, I am learning at</h3>
-  <br/>
   <table style="text-align: center;">
     <tr style="border: none">
     <td style="border: none" align="center">

@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
- <h3 style="font-style=bold">Now, I am learning at</h3>
+ <h3 style="font-style=bold">Now, I am student at</h3>
   <table style="text-align: center;">
     <tr style="border: none">
     <td style="border: none" align="center">
@@ -28,7 +28,6 @@
   </table>
 
 <h3 style="font-style=bold">Summary</h3>
-I am an undergraduate in <a href="https://ilkom.unpak.ac.id/"> Computer Science </a> at <a href="https://www.unpak.ac.id/"> Universitas Pakuan </a> & as a Cloud Computing Cohort at <a href="https://www.linkedin.com/company/bangkit-academy/mycompany/"> Bangkit 2023 H2 </a> <br/>
   Currently, developing helpdesk app web-based as a final project for my internship report at Setiajaya Toyota on August-September 2023 <br/>
   ⚙️Tech Stack: Laravel with TailwindCSS, Laravel Breeze
 </div>

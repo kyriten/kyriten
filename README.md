@@ -17,11 +17,11 @@
   <table style="text-align: center;">
     <tr>
     <td>
-      <img src="https://github.com/kyriten/kyriten/blob/main/logo-unpak.ico" alt="Universitas Pakuan" style="width: 12%;" align="center">
+      <img src="https://github.com/kyriten/kyriten/blob/main/logo-unpak.ico" alt="Universitas Pakuan" style="width: 18%;" align="center">
       <p>Computer Science - Universitas Pakuan</p>
     </td>
     <td>
-      <img src="https://github.com/kyriten/kyriten/blob/main/bangkit.ico" alt="Bangkit 2023" style="width: 12%;" align="center">
+      <img src="https://github.com/kyriten/kyriten/blob/main/bangkit.ico" alt="Bangkit 2023" style="width: 18%;" align="center">
       <p>Cloud Computing - Bangkit 2023 H2</p>
     </td>
     </tr>

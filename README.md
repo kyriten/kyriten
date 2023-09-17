@@ -15,17 +15,12 @@
 <br/>
 
 <div align="center">
+| Gambar 1 | Gambar 2 |
+|----------|----------|
+| ![Caption Gambar 1](link-gambar-1) | ![Cloud Computing | Bangkit 2023 H2](https://github.com/kyriten/kyriten/blob/main/bangkit.ico) |
+
 <h3>Now I am learning at</h3>
-<div style="display: flex;">
-  <figure style="flex:1; width: 50%;">
-    <img src=".jpg" alt="Universitas Pakuan" style="width: 100%;">
-    <figcaption>Computer Science | Universitas Pakuan</figcaption>
-  </figure>
-  <figure style="flex:1; width: 50%;">
-    <img src="https://github.com/kyriten/kyriten/blob/main/bangkit.ico" alt="Bangkit 2023" width="64" height="64">
-    <figcaption>Cloud Computing | Bangkit 2023 H2</figcaption>
-  </figure>
-</div>
+
 I am an undergraduate in <a href="https://ilkom.unpak.ac.id/"> Computer Science </a> at <a href="https://www.unpak.ac.id/"> Universitas Pakuan </a> & as a Cloud Computing Cohort at <a href="https://www.linkedin.com/company/bangkit-academy/mycompany/"> Bangkit 2023 H2 </a> <br/>
   Currently, developing helpdesk app web-based as a final project for my internship report at Setiajaya Toyota on August-September 2023 <br/>
   ⚙️Tech Stack: Laravel with TailwindCSS, Laravel Breeze

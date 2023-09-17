@@ -14,7 +14,9 @@
 <br/>
 
 <div align="center">
-🌱 I’m currently learning Cloud Computing at Bangkit 2023 H2
+Now, I am an undergraduate in Computer Science at Universitas Pakuan and as a Cloud Computing Cohort at Bangkit 2023 H2 <br/>
+  Currently, I am developing an app web-based as a final project for my internship report at Setiajaya Toyota on the August-September 2023 <br/>
+  This app uses Laravel 10 with TailwindCSS to help me make user interface.
 </div>
 
 ---

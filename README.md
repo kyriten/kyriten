@@ -12,7 +12,7 @@
   </a>
 </div>
 
-| ![Image 1](image1-url) Caption for Image 1 | ![Image 2](image2-url) Caption for Image 2 |
+| ![Image 1]([image1-url](https://github.com/kyriten/kyriten/blob/main/logo-unpak.ico)) Caption for Image 1 | ![Image 2](https://github.com/kyriten/kyriten/blob/main/bangkit.ico) Caption for Image 2 |
 |:-----------------------------------------:|:-----------------------------------------:|
 
 

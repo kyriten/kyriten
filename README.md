@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**kyriten/kyriten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 👋 Hi, I’m Abimanyu, called Abi (pronounced in Bahasa, please)
 - 👀 Now i'm gaining my programming skills. Primary is C++ and Web Development
 - 🌱 I’m currently learning html, css, js, c++

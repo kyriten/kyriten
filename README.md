@@ -28,8 +28,8 @@
   </table>
 
 <h3 style="font-style=bold">Summary</h3>
-  Currently, developing helpdesk app web-based as a final project for my internship report at Setiajaya Toyota on August-September 2023 <br/>
-  ⚙️Tech Stack: Laravel with TailwindCSS, Laravel Breeze
+  Currently, developing bimbingan online app web-based as a freelance project at FMIPA Universitas Pakuan on Juli-September 2024 <br/>
+  ⚙️Tech Stack: Laravel with Bootstrap 5
 </div>
 
 ---

@@ -11,20 +11,27 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
-
+<br><br>
 <div align="center">
- <h3 style="font-style=bold">Now, I am student at</h3>
   <table style="text-align: center;">
-    <tr style="border: none">
-    <td style="border: none" align="center">
-      <img src="https://github.com/kyriten/kyriten/blob/main/logo-unpak.ico" alt="Universitas Pakuan" style="width: 32%;">
-      <p>Computer Science - Universitas Pakuan</p>
-    </td>
-    <td style="border: none" align="center">
-      <img src="https://github.com/kyriten/kyriten/blob/main/bangkit.ico" alt="Bangkit 2023" style="width: 32%;">
-      <p>Cloud Computing - Bangkit 2023 H2</p>
-    </td>
-    </tr>
+    <thead>
+      <tr style="border: none">
+        <td style="border: none" align="center"><h3 style="font-style=bold">Now, I am student at</h3></td>
+        <td style="border: none" align="center"><h3 style="font-style=bold">Graduated at</h3></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="border: none">
+        <td style="border: none" align="center">
+          <img src="https://github.com/kyriten/kyriten/blob/main/logo-unpak.ico" alt="Universitas Pakuan" style="width: 32%;">
+          <p>Computer Science - Universitas Pakuan</p>
+        </td>
+        <td style="border: none" align="center">
+          <img src="https://github.com/kyriten/kyriten/blob/main/bangkit.ico" alt="Bangkit 2023" style="width: 32%;">
+          <p>Cloud Computing - Bangkit 2023 H2</p>
+        </td>
+      </tr>
+    </tbody>
   </table>
 
 <h3 style="font-style=bold">Summary</h3>

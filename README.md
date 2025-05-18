@@ -36,7 +36,7 @@
 
 <h3 style="font-style=bold">Summary</h3>
   Currently, developing any app web-based, <br/>
-  ⚙️Tech Stack: Laravel with Bootstrap 5
+  ⚙️Tech Stack: Laravel with Bootstrap 5 <br/>
   🚀My App: Botanica, Doosenku, Rempah Indonesia
 </div>
 

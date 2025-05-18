@@ -35,8 +35,9 @@
   </table>
 
 <h3 style="font-style=bold">Summary</h3>
-  Currently, developing bimbingan online app web-based as a freelance project at FMIPA Universitas Pakuan on Juli-September 2024 <br/>
+  Currently, developing any app web-based, <br/>
   ⚙️Tech Stack: Laravel with Bootstrap 5
+  🚀My App: Botanica, Doosenku, Rempah Indonesia
 </div>
 
 ---
